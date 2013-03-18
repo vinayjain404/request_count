@@ -1,2 +1,5 @@
-A simple python script to fetch requests from unique ip addresses from apache
+A simple python script to fetch request counts via unique ip addresses from apache
 access logs
+
+Usage:
+python unique_ip_requests.py sample.log
